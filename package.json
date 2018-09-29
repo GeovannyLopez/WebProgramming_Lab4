@@ -1,0 +1,23 @@
+{
+  "name": "webprogramming_lab4",
+  "version": "1.0.0",
+  "description": "Lab 4 - Web Programming",
+  "main": "webServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeovannyLopez/WebProgramming_Lab4.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GeovannyLopez/WebProgramming_Lab4/issues"
+  },
+  "homepage": "https://github.com/GeovannyLopez/WebProgramming_Lab4#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "httpdispatcher": "^2.1.2"
+  }
+}
